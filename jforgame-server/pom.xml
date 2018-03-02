@@ -217,7 +217,6 @@
 							<mainClass>com.kingston.ServerStartup</mainClass>
 						</manifest>
 					</archive>
-					<jarName>GameServer</jarName>
 				</configuration>
 			</plugin>
 		</plugins>
